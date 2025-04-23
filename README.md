@@ -1,2 +1,0 @@
-# influxdb_installation
-influxdb_installation
